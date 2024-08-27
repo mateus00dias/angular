@@ -1,0 +1,11 @@
+npm install -g @angular/cli 
+
+ng new angular-demo
+
+cd angular-demo
+
+code .
+
+ng generate component exemplo
+
+ng serve
